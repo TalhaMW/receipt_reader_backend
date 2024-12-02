@@ -1,0 +1,21 @@
+{
+    "Date": "30/10/2024",
+    "Items": [
+        {
+            "item_name": "Flat White",
+            "price": 3.5
+        },
+        {
+            "item_name": "Flat White",
+            "price": 4.2
+        },
+        {
+            "item_name": "Oat Milk (added)",
+            "price": 0.0
+        }
+    ],
+    "total": 7.7,
+    "spending_insights": "You ordered two Flat Whites with an additional oat milk option. Consider trying different beverages for variety.",
+    "file_name": "IMG_6237.jpg.json",
+    "id": "3b930f04-45ee-412f-b500-6685c14a474e"
+}

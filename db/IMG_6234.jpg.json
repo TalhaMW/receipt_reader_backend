@@ -1,0 +1,41 @@
+{
+    "Date": "29/10/24",
+    "Items": [
+        {
+            "item_name": "Harissa Chicken",
+            "price": 19.9
+        },
+        {
+            "item_name": "Thai Grn Lntl Regular",
+            "price": 4.4
+        },
+        {
+            "item_name": "Green Tea",
+            "price": 2.0
+        },
+        {
+            "item_name": "Belu Water - Still",
+            "price": 2.15
+        },
+        {
+            "item_name": "PRESS - OJ 250ml",
+            "price": 2.95
+        },
+        {
+            "item_name": "Dash Raspberry 330ml",
+            "price": 2.55
+        },
+        {
+            "item_name": "Give Me Glo 250ml",
+            "price": 3.65
+        },
+        {
+            "item_name": "Smoothie + Side Promo 1",
+            "price": -0.66
+        }
+    ],
+    "total": 37.64,
+    "spending_insights": "The largest expense was on Harissa Chicken at \u00a319.90. A discount of \u00a30.66 was applied to the order.",
+    "file_name": "IMG_6234.jpg.json",
+    "id": "93808c7b-4c56-4ba3-88c2-c4368e9ea292"
+}

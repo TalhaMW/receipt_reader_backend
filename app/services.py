@@ -9,8 +9,11 @@ DB_DIRECTORY = os.path.join(os.getcwd(), 'db')
 os.makedirs(DB_DIRECTORY, exist_ok=True)
 
 def process_images():
+    # print("UNUNUNUN");
+    
     # Get results (which includes file names for each processed image)
-    result = get_result()
+    result = get_result();
+    
 
     # Save each result to the "database" with corresponding file name
     for res in result:

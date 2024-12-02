@@ -1,0 +1,25 @@
+{
+    "total": 6.5,
+    "Date": "06/11/24",
+    "Items": [
+        {
+            "item_name": "Single Banana",
+            "price": 0.45
+        },
+        {
+            "item_name": "Creamy Coconut",
+            "price": 1.55
+        },
+        {
+            "item_name": "Cheese Twist",
+            "price": 1.5
+        },
+        {
+            "item_name": "Mixed Berry",
+            "price": 2.3
+        }
+    ],
+    "spending_insights": "You purchased a mix of fruits and snacks. Consider joining 'Sparks' for shopping benefits and potential savings on future purchases.",
+    "file_name": "IMG_6258.jpg.json",
+    "id": "587a9698-dd3c-4496-b472-97482df3a5cc"
+}
