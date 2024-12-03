@@ -7,7 +7,7 @@ def create_app():
     app.config.from_pyfile("config.py")
 
     # Allow all origins for all API routes
-    CORS(app, resources={r"/api/*": {"origins": "*"}})
+    CORS(app)
 
     app.register_blueprint(process_blueprint, url_prefix="/api/v1")
     
