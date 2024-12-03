@@ -21,4 +21,4 @@ def process_images():
         file_name = res.get("file_name", "default.json")  # Use a default name if no file name exists
         save_to_db(res, file_name)
     
-    return {"status": "success", "processed_images": result}
+    return {"status": "success","headers":{"Content-Type":"application/json"}, "processed_images": result}
